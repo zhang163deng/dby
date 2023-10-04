@@ -1,1 +1,1 @@
-clan://localhost/tvbox/dancang/jrdengge/jrdengge.json
+clan://localhost/tvbox/dancang/jrdengge/jrdengge1.json
