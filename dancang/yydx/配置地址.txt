@@ -1,1 +1,1 @@
-clan://localhost/tvbox/dancang/yyfx/yyfx.json
+clan://localhost/tvbox/dancang/yydx/yyfx.json
