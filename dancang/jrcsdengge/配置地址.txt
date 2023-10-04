@@ -1,1 +1,1 @@
-clan://localhost/tbobx/jrdengge/jrdengge.json
+clan://localhost/tbobx/dancang/jrdengge/jrdengge.json
