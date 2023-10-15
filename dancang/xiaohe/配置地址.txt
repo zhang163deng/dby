@@ -1,1 +1,1 @@
-clan://localhost/tvbox/禁止贩卖/禁止贩卖.json
+clan://localhost/tvbox/xiaohe/xiaohe.json
