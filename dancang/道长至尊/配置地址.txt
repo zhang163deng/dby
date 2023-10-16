@@ -1,0 +1,1 @@
+clan://localhost/tvbox/dz1/dz1.json
