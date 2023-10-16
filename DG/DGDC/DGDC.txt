@@ -1,0 +1,57 @@
+{
+  "warningText": "关注公众号:爱学习小天才，分享者随时更新。",
+  "urls": [
+    {
+      "name": "👨‍⚖️｜登哥在线虚拟仓影视版｜👨‍⚖️",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/登哥在线虚拟仓/yydf/yydf.json"
+    },
+    {
+      "name": "♻️｜登哥在线虚拟机仓｜♻️",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/登哥在线虚拟仓/yydf_tv/yydf_tv.json"
+    },
+    {
+      "name": "♻️｜贼群友vip仓｜♻️",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/贼群友VIP仓/贼群友VIP仓.json"
+    },
+    {
+      "name": "🌨登哥｜阿里魔镇🌨",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/登哥阿里魔镇/登哥阿里魔镇.json"
+    },
+    {
+      "name": "🧚‍♂️登哥｜PG.影视🧚‍♂️",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/登哥PG线路/登哥PG线路.json"
+    },
+    {
+      "name": "🐝登哥｜天下第一🐝",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/登哥天下第一/登哥天下第一.json"
+    },
+    {
+      "name": "‍🐾登哥｜猫爪专线🐾",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/登哥猫爪/登哥猫爪.json"
+    },
+    {
+      "name": "🍚登哥｜神秘小米🍚",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/登哥小米/登哥小米.json"
+    },
+    {
+      "name": "🔥登哥｜多多聪明🔥",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/多多聪明/多多聪明.json"
+    },
+    {
+      "name": "🌱登哥｜菜妮丝佬🌱",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/菜妮丝佬/菜妮丝佬.json"
+    },
+    {
+      "name": "🙈登哥｜宝盒有宝🙈",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/宝盒有宝/宝盒有宝.json"
+    },
+    {
+      "name": "🦆登哥｜南风俊逸🦆",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/bd/nf/XC1.json"
+    },
+    {
+      "name": "🦹‍登哥｜道长至尊🦹‍♂️",
+      "url": "https://cdn.jsdelivr.net/gh/zhang163deng/dby@main/dancang/道长至尊/道长至尊.json"
+    }
+  ]
+}
