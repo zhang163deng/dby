@@ -1,0 +1,1 @@
+clan://localhost/tvbox/cns1/cns1.json
