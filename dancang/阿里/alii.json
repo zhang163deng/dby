@@ -3,8 +3,8 @@
   "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "sites": [
     {
-      "key": "♻️登哥10月16号更新",
-      "name": "♻️豆瓣.饭|登哥♻️",
+      "key": "♻️豆豆",
+      "name": "♻️10月17号登哥阿里盘更新，且用且珍惜♻️",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -13,14 +13,14 @@
     },
     {
       "key": "♻️爱奇异",
-      "name": "♻️爱奇艺|登哥♻️",
+      "name": "♻️爱奇艺|业余♻️",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/aiqiyi.js"
     },
     {
       "key": "🐿csp_KungFu4041",
-      "name": "🐿Token设置|登哥♻️",
+      "name": "🐿Token设置|业余♻️",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
@@ -42,7 +42,7 @@
     },
     {
       "key": "csp_woggcli",
-      "name": "🧚‍♂️俊哥玩偶.CLi|登哥♻️",
+      "name": "🧚‍♂️俊哥玩偶.CLi|业余♻️",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable": 1,
@@ -53,7 +53,7 @@
     },
     {
       "key": "csp_Hdhive_影巢",
-      "name": "🎥影巢 |登哥♻️",
+      "name": "🎥影巢 |业余♻️",
       "type": 3,
       "api": "csp_Hdhive",
       "searchable": 1,
@@ -64,7 +64,7 @@
     },
     {
       "key": "🍮Gitcafe6",
-      "name": "🍮纸条搜|登哥♻️",
+      "name": "🍮纸条搜|业余♻️",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -75,7 +75,7 @@
     },
     {
       "key": "🍮PanSou6",
-      "name": "🍮盘搜索|登哥♻️",
+      "name": "🍮盘搜索|业余♻️",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -86,7 +86,7 @@
     },
     {
       "key": "🍮UpYun6",
-      "name": "🍮优盘搜|登哥♻️",
+      "name": "🍮优盘搜|业余♻️",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "🍮Zhaozy6",
-      "name": "🍮找资源|登哥♻️",
+      "name": "🍮找资源|业余♻️",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -108,14 +108,14 @@
     },
     {
       "key": "♻️drpy_js_ddys",
-      "name": "♻️荐片|登哥♻️",
+      "name": "♻️荐片|业余♻️",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/荐片.js"
     },
     {
       "key": "🦊csp_WoGG",
-      "name": "🦊玩偶哥哥|登哥♻️",
+      "name": "🦊玩偶哥哥|业余♻️",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -125,7 +125,7 @@
     },
     {
       "key": "🦊YiSo",
-      "name": "🦊易搜|登哥♻️",
+      "name": "🦊易搜|业余♻️",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -136,7 +136,7 @@
     },
     {
       "key": "🦊Zhaozy",
-      "name": "🦊找资源|登哥♻️",
+      "name": "🦊找资源|业余♻️",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -147,7 +147,7 @@
     },
     {
       "key": "🦊PanSou",
-      "name": "🦊盘搜|登哥♻️",
+      "name": "🦊盘搜|业余♻️",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -158,7 +158,7 @@
     },
     {
       "key": "🦊UpYun",
-      "name": "🦊Up搜|登哥♻️",
+      "name": "🦊Up搜|业余♻️",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -169,7 +169,7 @@
     },
     {
       "key": "🦊PanSearch",
-      "name": "🦊盘Se|登哥♻️",
+      "name": "🦊盘Se|业余♻️",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -180,7 +180,7 @@
     },
     {
       "key": "🦊七夜",
-      "name": "🦊七夜|登哥♻️",
+      "name": "🦊七夜|业余♻️",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -191,7 +191,7 @@
     },
     {
       "key": "📀Gitcafe",
-      "name": "📀小纸条|登哥♻️",
+      "name": "📀小纸条|业余♻️",
       "type": 3,
       "api": "csp_Gitcafe",
       "playerType": 1,
@@ -203,7 +203,7 @@
     },
     {
       "key": "📀csp_Zhaozy5",
-      "name": "📀找资源|登哥♻️",
+      "name": "📀找资源|业余♻️",
       "type": 3,
       "api": "csp_Zhaozy",
       "playerType": 1,
@@ -215,7 +215,7 @@
     },
     {
       "key": "📀csp_AliPS",
-      "name": "📀喵狸盘搜|登哥♻️",
+      "name": "📀喵狸盘搜|业余♻️",
       "type": 3,
       "api": "csp_AliPS",
       "playerType": 1,
@@ -335,7 +335,7 @@
     },
     {
       "key": "📀csp_XYQHiker_DOVX搜索",
-      "name": "📀DOVX|登哥♻️",
+      "name": "📀DOVX|业余♻️",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
@@ -347,7 +347,7 @@
     },
     {
       "key": "📀csp_XYQHiker_盘搜索",
-      "name": "📀盘搜索|登哥♻️",
+      "name": "📀盘搜索|业余♻️",
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 1,
@@ -359,7 +359,7 @@
     },
     {
       "key": "🦄YiSo3",
-      "name": "🦄易搜|登哥♻️",
+      "name": "🦄易搜|业余♻️",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -371,7 +371,7 @@
     },
     {
       "key": "🦄Zhaozy3",
-      "name": "🦄资源|登哥♻️",
+      "name": "🦄资源|业余♻️",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -383,7 +383,7 @@
     },
     {
       "key": "🦄PanSou3",
-      "name": "🦄登哥┃盘搜♻️",
+      "name": "🦄业余┃盘搜♻️",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -407,7 +407,7 @@
     },
     {
       "key": "🦄PanSearch3",
-      "name": "🦄盘Se|登哥♻️",
+      "name": "🦄盘Se|业余♻️",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -418,7 +418,7 @@
     },
     {
       "key": "🦄七夜3",
-      "name": "🦄七夜|登哥♻️",
+      "name": "🦄七夜|业余♻️",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -429,7 +429,7 @@
     },
     {
       "key": "🐿t4_wo",
-      "name": "🐿玩偶T4|登哥♻️",
+      "name": "🐿玩偶T4|业余♻️",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable": 1,
@@ -440,7 +440,7 @@
     },
     {
       "key": "🐿csp_WoGG7",
-      "name": "🐿玩偶哥哥|登哥♻️",
+      "name": "🐿玩偶哥哥|业余♻️",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -450,7 +450,7 @@
     },
     {
       "key": "🐿UP云搜7",
-      "name": "🐿UP云搜|登哥♻️",
+      "name": "🐿UP云搜|业余♻️",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -460,7 +460,7 @@
     },
     {
       "key": "🐿纸条7",
-      "name": "🐿纸条搜索|登哥♻️",
+      "name": "🐿纸条搜索|业余♻️",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -470,7 +470,7 @@
     },
     {
       "key": "🐿易搜7",
-      "name": "🐿易搜|登哥♻️",
+      "name": "🐿易搜|业余♻️",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -480,7 +480,7 @@
     },
     {
       "key": "🐿阿里云盘7",
-      "name": "🐿阿里云盘|登哥♻️",
+      "name": "🐿阿里云盘|业余♻️",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -490,7 +490,7 @@
     },
     {
       "key": "🐿盘搜7",
-      "name": "🐿盘搜|登哥♻️",
+      "name": "🐿盘搜|业余♻️",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -500,7 +500,7 @@
     },
     {
       "key": "🐿网盘搜索7",
-      "name": "🐿网盘搜索|登哥♻️",
+      "name": "🐿网盘搜索|业余♻️",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -510,7 +510,7 @@
     },
     {
       "key": "🐿找资源7",
-      "name": "🐿找资源|登哥♻️",
+      "name": "🐿找资源|业余♻️",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -521,7 +521,7 @@
     },
     {
       "key": "🐝玩偶5",
-      "name": "🐝玩偶|登哥♻️",
+      "name": "🐝玩偶|业余♻️",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -531,7 +531,7 @@
     },
     {
       "key": "🦉七夜8",
-      "name": "🦉七夜|登哥♻️",
+      "name": "🦉七夜|业余♻️",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -541,7 +541,7 @@
     },
     {
       "key": "🦉雲搜8",
-      "name": "🦉雲搜|登哥♻️",
+      "name": "🦉雲搜|业余♻️",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -551,7 +551,7 @@
     },
     {
       "key": "🦉盤搜8",
-      "name": "🦉盤搜|登哥♻️",
+      "name": "🦉盤搜|业余♻️",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -561,7 +561,7 @@
     },
     {
       "key": "🦉盤搜索8",
-      "name": "🦉盤搜索|登哥♻️",
+      "name": "🦉盤搜索|业余♻️",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -571,7 +571,7 @@
     },
     {
       "key": "🦉找資源8",
-      "name": "🦉找資源|登哥♻️",
+      "name": "🦉找資源|业余♻️",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -581,7 +581,7 @@
     },
     {
       "key": "push_agent",
-      "name": "♻️|登哥饭.推送",
+      "name": "♻️|业余饭.推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -590,7 +590,7 @@
     },
     {
       "key": "push_agent",
-      "name": "♻️|登哥香.推送",
+      "name": "♻️|业余香.推送",
       "type": 3,
       "api": "csp_PushAgent",
       "playerType": 1,
