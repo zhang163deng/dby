@@ -30,7 +30,7 @@
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "♻️豆瓣┃公众号:业余打发。影视壳子最兼容！",
+      "name": "♻️10月16号影视更新！",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
