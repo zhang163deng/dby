@@ -1,7 +1,0 @@
-http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/apiv85drpy2.min.js
-http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/6X.json
-http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/qie.py
-http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/幼儿.py
-http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/小学.py
-http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/初中.py
-http://ftp6587948.host121.Sanfengyun.cn/yydf/lib/py_中国文化.py
