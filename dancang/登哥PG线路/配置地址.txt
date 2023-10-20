@@ -1,1 +1,0 @@
-clan://localhost/tvbox/PG1/PG1.json
