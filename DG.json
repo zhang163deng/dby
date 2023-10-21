@@ -52,7 +52,7 @@
       "key": "csp_Alistxy",
       "name": "登哥10月19号更新稳定版🅿️Alist网盘♻️",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar",
+      "jar": "./lib1/AListxy.jar",
       "api": "csp_AListxy",
       "searchable": 1,
       "quickSearch": 1,
@@ -488,8 +488,8 @@
       "key": "畅梦",
       "name": "登哥10月19号更新稳定版♻️畅梦秒播",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
+      "api": "./lib1/ldrpy2.min.js",
+      "ext": "./lib1/lib/changmeng.js"
     },
     {
       "key": "YGP",
@@ -519,7 +519,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/920.jar"
+      "jar": "./lib1/920.jar"
     },
     {
       "key": "♻️玩偶♻️",
@@ -531,10 +531,10 @@
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-        "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
+        "filter": "./lib1/lib/wogg.json",
         "danmu": false
       },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
+      "jar": "./lib1/928.jar"
     },
     {
       "key": "玩偶弹幕版",
@@ -546,10 +546,10 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-        "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/wogg.json",
+        "filter": "./lib1/lib/wogg.json",
         "danmu": true
       },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
+      "jar": "./lib1/928.jar"
     },
     {
       "key": "♻️荐片♻️",
@@ -562,7 +562,7 @@
       "ext": {
         "danmu": false
       },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
+      "jar": "./lib1/928.jar"
     },
     {
       "key": "荐片弹幕版",
@@ -575,7 +575,7 @@
       "ext": {
         "danmu": true
       },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/928.jar"
+      "jar": "./lib1/928.jar"
     },
     {
       "key": "♻️dr_荐片♻️",
@@ -2076,7 +2076,7 @@
         "type": "rect",
         "ratio": 3.8
       },
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/dDSz.jar"
+      "jar": "./lib1/dDSz.jar"
     },
     {
       "key": "吾爱PS",
