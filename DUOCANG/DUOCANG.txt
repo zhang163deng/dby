@@ -33,7 +33,7 @@
       "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/tvbox/tvbox.json"
     },
    {
-      "name": "♻️登哥，灵活巧技♻️",
+      "name": "♻️登哥，多多快乐♻️",
       "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/duoduo/duoduo.json"
     }
   ]
