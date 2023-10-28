@@ -1,37 +1,36 @@
 {
-    "warningText": "关注公众号:登哥爱分享。",
-    "urls": [
-        {
-            "name": "👨‍⚖️｜登哥影视云服务版｜👨‍⚖️",
-            "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG.json"
-        },
-        {
-            "name": "♻️｜登哥影视家庭版｜♻️",
-            "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DGJR/DGJR.json"
-        },
-        {
-            "name": "♻️｜登哥/饭太硬｜♻️",
-            "url": https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/fty/fty.json"
-        },
-        {
-            "name": "♻️｜登哥/肥猫太累｜♻️",
-            "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/feimao/feimao.json"
-        },
-        {
-            "name": "🌨登哥/温和小盒🌨",
-            "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaohe/xiaohe.json"
-        },
-        {
-            "name": "♻️登哥/爆炸小米",
-            "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaomi/xiaomi.json"
-        },
-        {
-            "name": "🧚‍登哥/可爱猫爪🧚‍♂️",
-            "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/maozhua/maozhua.json"
-        },
-        {
-            "name": "☘️业余｜灵活巧技☘️",
-            "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/tvbox/tvbox.json
-        }
-    ]
+  "urls": [
+    {
+      "name": "♻️登哥影视版♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG.json"
+    },
+    {
+      "name": "♻️登哥影视家庭版♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DGJR/DGJR.json"
+    },
+    {
+      "name": "♻️登哥，饭太硬♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/fty/fty.json"
+    },
+    {
+      "name": "♻️登哥，肥猫太累♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/feimao/feimao.json"
+    },
+    {
+      "name": "♻️登哥，温柔小盒♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaohe/xiaohe.json"
+    },
+	{
+      "name": "♻️登哥，爆炸小米♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaomi/xiaomi.json"
+    },
+	{
+      "name": "♻️登哥，可爱猫爪♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/maozhua/maozhua.json"
+    },
+    {
+      "name": "♻️登哥，灵活巧技♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/tvbox/tvbox.json"
+    }
+  ]
 }
