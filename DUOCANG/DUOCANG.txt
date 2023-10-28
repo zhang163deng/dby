@@ -35,6 +35,10 @@
    {
       "name": "♻️登哥，多多快乐♻️",
       "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/duoduo/duoduo.json"
+    },
+   {
+      "name": "♻️登哥，阿里4K♻️",
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/AL/AL.json"
     }
   ]
 }
