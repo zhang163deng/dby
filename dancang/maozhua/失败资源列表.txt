@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js
+https://codeberg.org/AK47/drpy-js/raw/branch/main/js/我爱跟剧网.js
