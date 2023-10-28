@@ -1,101 +1,37 @@
 {
-    "warningText": "关注公众号:业余打发，分享者随时更新。",
+    "warningText": "关注公众号:登哥爱分享。",
     "urls": [
         {
-            "name": "👨‍⚖️｜业余影视云服务版｜👨‍⚖️",
-            "url": "http://111.67.195.139/yydf/yyff.json"
+            "name": "👨‍⚖️｜登哥影视云服务版｜👨‍⚖️",
+            "url": "https://jsq.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG.json"
         },
         {
-            "name": "♻️｜业余在线虚拟机仓｜♻️",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydf.json"
+            "name": "♻️｜登哥影视家庭版｜♻️",
+            "url": "https://jsq.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DGJR/DGJR.json"
         },
         {
-            "name": "♻️｜业余在线GIthub仓｜♻️",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
+            "name": "♻️｜登哥/饭太硬｜♻️",
+            "url": https://jsq.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/fty/fty.json"
         },
         {
-            "name": "♻️｜贼群友vip仓｜♻️",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/tvboxvip.json"
+            "name": "♻️｜登哥/肥猫太累｜♻️",
+            "url": "https://jsq.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/feimao/feimao.json"
         },
         {
-            "name": "🌨业余｜阿里魔镇🌨",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/alii1.json"
+            "name": "🌨登哥/温和小盒🌨",
+            "url": "https://jsq.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaohe/xiaohe.json"
         },
         {
-            "name": "♻️业余｜业余专源♻️",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yeyu/yydf_tv.json"
+            "name": "♻️登哥/爆炸小米",
+            "url": "https://jsq.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaomi/xiaomi.json"
         },
         {
-            "name": "🧚‍♂️业余｜PG.影视🧚‍♂️",
-            "url": "http://111.67.195.139/bd/pgbd.json"
+            "name": "🧚‍登哥/可爱猫爪🧚‍♂️",
+            "url": "https://jsq.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/maozhua/maozhua.json"
         },
         {
-            "name": "☘️业余｜高天影视☘️",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/gtly1.json"
-        },
-        {
-            "name": "🐝业余｜天下第一🐝",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/fm1.json"
-        },
-        {
-            "name": "‍🐾业余｜猫爪专线🐾",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/maojs/js.json"
-        },
-        {
-            "name": "🍚业余｜神秘小米🍚",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/xm1.json"
-        },
-        {
-            "name": "🌻业余｜香雅情神🌻",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/xyq1.json"
-        },
-        {
-            "name": "🌾业余｜饭太坚硬🌾",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/fty1.json"
-        },
-        {
-            "name": "🐼业余｜肥猫美妞🐼",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/feim1.json"
-        },
-        {
-            "name": "🔥业余｜多多聪明🔥",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/dduo1.json"
-        },
-        {
-            "name": "🚜业余｜运输车姐🚜",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/ysc.json"
-        },
-        {
-            "name": "🌱业余｜菜妮丝佬🌱",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/cns1.json"
-        },
-        {
-            "name": "🍵业余｜荷城茶秀🍵",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/hccx1.json"
-        },
-        {
-            "name": "🐈业余｜夜猫有情🐈",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/ymz.json"
-        },
-        {
-            "name": "🙈业余｜宝盒有宝🙈",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/ygbh1.json"
-        },
-        {
-            "name": "🦆业余｜南风俊逸🦆",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/nf/XC1.json"
-        },
-        {
-            "name": "🦹‍业余｜道长至尊🦹‍♂️",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/drpy/dz1.json"
-        },
-        {
-            "name": "🌛业余｜霜辉月明🌜",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/bd/shym1.json"
-        },
-        {
-            "name": "🤹🏼业余｜少儿益智🤹🏼",
-            "url": "http://ftp6587948.host121.sanfengyun.cn/srpd/srpd.json"
+            "name": "☘️业余｜灵活巧技☘️",
+            "url": "https://jsq.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/tvbox/tvbox.json
         }
     ]
 }
