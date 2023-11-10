@@ -1,0 +1,26 @@
+[
+    {
+        "name": "超级MV",
+        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/MV.txt&&&https://z1.ax1x.com/2023/10/14/pipTgxg.jpg"
+    },
+    {
+        "name": "多多影音",
+        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/duolive.txt&&&http://3650000.xyz/api/360.php?cid=6"
+    },
+    {
+        "name": "Ray0直播",
+        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/Ray0.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
+    },
+   {
+        "name": "荷城茶秀",
+        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/baishi.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
+    },
+    {
+        "name": "青木直播",
+        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/live.txt&&&https://z1.ax1x.com/2023/10/14/pipXB6K.png"
+    },
+    {
+        "name": "道长在线",
+        "url": "http://ftp6590005.host131.sanfengyun.cn/free/txt/dz.txt&&&https://z1.ax1x.com/2023/10/14/pipTRMQ.jpg"
+    }
+]
