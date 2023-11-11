@@ -6,7 +6,7 @@
     },
     {
       "name": "♻️登哥影视家庭版♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DGJR/DGJR.json"
+      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/api/api.json"
     },
     {
       "name": "♻️登哥，饭太硬♻️",
