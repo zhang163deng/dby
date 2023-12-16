@@ -1,2 +1,0 @@
-http://222.218.120.78:7654/spring.jar
-https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py
