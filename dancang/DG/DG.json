@@ -3,25 +3,9 @@
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
     {
-      "name": "♻️live",
+      "name": "铭宇直播♻️",
       "type": 0,
       "url": "./lib/live.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "♻️TV",
-      "type": 0,
-      "url": "./lib/zhibo.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "♻️MTV",
-      "type": 0,
-      "url": "./lib/MTV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -30,14 +14,14 @@
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "♻️豆瓣┃公众号:业余打发。",
+      "name": "♻️登哥影视12月1号更新稳定版。",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
     },
     {
       "key": "應用商店",
-      "name": "♻️业余-应用商店",
+      "name": "♻️登哥-应用商店",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
