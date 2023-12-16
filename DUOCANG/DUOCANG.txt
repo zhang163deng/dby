@@ -2,43 +2,19 @@
   "urls": [
     {
       "name": "♻️登哥影视版♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG.json"
+      "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG.json"
     },
     {
-      "name": "♻️登哥影视家庭版♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/api/api.json"
+      "name": "♻️蜂蜜极速影视♻️",
+      "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/fengmi/fengmi.json"
     },
     {
-      "name": "♻️登哥，饭太硬♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/fty/fty.json"
+      "name": "♻️饭太硬影视♻️",
+      "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/fty/fty.json"
     },
     {
-      "name": "♻️登哥，肥猫太累♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/feimao/feimao.json"
-    },
-    {
-      "name": "♻️登哥，温柔小盒♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaohe/xiaohe.json"
-    },
-	{
-      "name": "♻️登哥，爆炸小米♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaomi/xiaomi.json"
-    },
-	{
-      "name": "♻️登哥，可爱猫爪♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/maozhua/maozhua.json"
-    },
-    {
-      "name": "♻️登哥，灵活巧技♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/tvbox/tvbox.json"
-    },
-   {
-      "name": "♻️登哥，多多快乐♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/duoduo/duoduo.json"
-    },
-   {
-      "name": "♻️登哥，阿里4K♻️",
-      "url": "https://java.xuexidaima.top/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/AL/AL.json"
+      "name": "♻️小米影视♻️",
+      "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaomi/xiaomi.json"
     }
   ]
 }
