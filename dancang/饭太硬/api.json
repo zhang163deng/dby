@@ -913,15 +913,15 @@
     ],
     "lives": [
         {
-            "name": "live",
+            "name": "live6",
             "type": 0,
-            "url": "./lives/live.txt",
+            "url": "./lives/live6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
         {
-            "name": "ipv6",
+            "name": "ipv4",
             "type": 0,
-            "url": "./lives/ipv6.txt",
+            "url": "./lives/ipv4.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]
