@@ -918,6 +918,5 @@
             "url": "./lives/live6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
-        }
     ]
 }
