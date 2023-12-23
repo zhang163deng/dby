@@ -917,12 +917,7 @@
             "type": 0,
             "url": "./lives/live6.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "ipv4",
-            "type": 0,
-            "url": "./lives/live.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        }
         }
     ]
 }
