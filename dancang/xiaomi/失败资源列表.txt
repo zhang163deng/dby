@@ -1,7 +1,0 @@
-https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json
-https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js
-https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js
-https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json
-https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js
-https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js
-https://fanty.run.goorm.site/ext/斗鱼直播.js
