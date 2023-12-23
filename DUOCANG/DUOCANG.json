@@ -1,20 +1,23 @@
-{
-  "urls": [
-    {
-      "name": "♻️登哥影视版♻️",
-      "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG.json"
-    },
-    {
-      "name": "♻️蜂蜜极速影视♻️",
-      "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/fengmi/fengmi.json"
-    },
-    {
-      "name": "♻️饭太硬影视♻️",
-      "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/fty/fty.json"
-    },
-    {
-      "name": "♻️小米影视♻️",
-      "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/xiaomi/xiaomi.json"
-    }
-  ]
-}
+{ "urls": [{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/小米/api.json", "name": "小米" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/香雅情XYQ/api.json", "name": "香雅情XYQ" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/道长JS/api.json", "name": "道长JS" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/菜妮丝/api.json", "name": "菜妮丝" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/南风/api.json", "name": "南风" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/骚零/api.json", "name": "骚零" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/荷城茶秀/api.json", "name": "荷城茶秀" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/动漫频道/api.json", "name": "动漫频道" }]}
