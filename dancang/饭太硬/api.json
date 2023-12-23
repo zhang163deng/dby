@@ -921,7 +921,7 @@
         {
             "name": "ipv4",
             "type": 0,
-            "url": "./lives/ipv4.txt",
+            "url": "./lives/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ]
