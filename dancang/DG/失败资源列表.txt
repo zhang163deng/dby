@@ -1,5 +1,0 @@
-http://111.67.195.139/yydf/lib/market.json
-https://jihulab.com/yydfys/yydf/-/raw/fm.jar
-https://hjdhnx.github.io/dr_py/js/武享吧.js
-https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/xyq.jar
-https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fm0603.jar
