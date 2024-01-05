@@ -1,8 +1,8 @@
-{ "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG.json "name": "登哥影视" },
+{ "urls": [{ "url": ""https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG.json ", "name": "登哥影视" },
 
-{ "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/PG/api.json"name": "PG影视" },
+{ "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/PG/api.json", "name": "PG影视" },
 
-{ "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG1.json "name": "登哥影视剧" },
+{ "url": "https://jsq.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/DG/DG1.json", "name": "登哥影视剧" },
 
 { "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/饭太硬/api.json", "name": "饭太硬" },
 
@@ -10,4 +10,4 @@
 
 { "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/肥猫/api.json", "name": "肥猫" },
 
-{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/动漫频道/api.json", "name": "动漫频道" }]}
+{ "url": "https://java.yuyu2012.free.hr/https://raw.githubusercontent.com/zhang163deng/dby/main/dancang/少儿频道/api.json", "name": "少儿频道" }]}
