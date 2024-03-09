@@ -1,0 +1,7 @@
+
+file://tvbox/思畅网络/api.json
+
+clan://localhost/tvbox/思畅网络/api.json
+
+http://127.0.0.1:9978/file/tvbox/思畅网络/api.json
+
